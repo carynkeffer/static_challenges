@@ -1,0 +1,29 @@
+img.large {
+  width: 1200px;
+  height: 800px;
+  margin: 20px;
+}
+
+img.small{
+  width: 370px;
+  height: 290px;
+  margin-right: 300px;
+}
+
+.right {
+  float: right;
+}
+
+.top-margin{
+  margin-top: 500px;
+}
+
+h1 {
+  color: white;
+  background-color: red;
+}
+
+h2 {
+  color:white;
+  background-color: gray;
+}
